@@ -21,7 +21,7 @@
 | clear       | Limpia la pantalla y coloca el promot al principio de la misma |
 | ls          | Lista los archivos y directorios dentro del archivo de trabajo |
 | mkdir       | (mkdir nom_directorio) Crea una nueva carpeta                  |
-| code .      | Para abrir directamente Visual Studio Code                     |
+| code        | Para abrir directamente Visual Studio Code                     |
 
 # Comandos Alias
 ```
